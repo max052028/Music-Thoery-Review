@@ -28,16 +28,16 @@
 | 舞曲 | 原文 | 拍號 | 速度 / 性格 | 弱起 | 備註 |
 |---|---|-----|---|:--:|---|
 | 阿勒曼 | Allemande | 4/4 、 2/2 | 中板、莊重 | ✅ |  |
-| 庫朗 / 科蘭特 | Courante (French) / Corrente (Italian) | 3/2 、 3/4 | French: 慢且莊嚴；Italian: 較快、流動 | ❌ | Bach 有時用 corrente 表示意大利型 |
+| 庫朗 / 科蘭特 | Courante (French) / Corrente (Italian) | 3/2(4) 、 6/8 | French: 慢且莊嚴；Italian: 較快、流動 | ✅ | Bach 有時用 corrente 表示意大利型 |
 | 薩拉邦德 | Sarabande | 三拍子 | 緩慢、莊嚴 | ❌ |  |
-| 基格 | Gigue (Jig) | 複節拍 | 輕快、終曲性 | ❌ |  |
+| 基格 | Gigue (Jig) | 複節拍 | 輕快、終曲性 | ✅ |  |
 | 嘉禾 | Gavotte | 4/4 、 2/2 | 中速到快速 | ✅ | sarabande 與 gigue 之間 |
 | 布雷 | Bourrée | 2/2 、 4/4 | 比 gavotte 更快速 | ✅ |  sarabande 與 gigue 之間 |
 | 帕塞皮埃 | Passepied | 三拍子 | 非常快的三拍舞 | ✅ |  |
 | 小步舞曲 | Minuet | 3/4 | 中板、優雅 | ❌ | 亦演化為 minuet & trio 形式 |
-| 蘿爾 | Loure | 6/4 、 6/8 | 緩慢、莊重 | ❌ | 又稱 slow gigue |
+| 蘿爾 | Loure | 6/4 、 6/8 | 緩慢、莊重 | ✅ | 又稱 slow gigue |
 | 佛拉內 | Forlane (Furlana) | 6/8 、 12/8 | 較活潑、帶鄉土風格 | ❌ |  |
-| 夏康 / 帕薩加利亞 | Chaconne / Passacaglia | 三拍子 | 變奏型、莊嚴 | ❌ |  |
+| 夏康 / 帕薩加利亞 | Chaconne / Passacaglia | 三拍子 | 變奏型、莊嚴 | ❌ | 少數弱起在二拍 |
 
 ## 3. 十二音列
 
