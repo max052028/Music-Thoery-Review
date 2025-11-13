@@ -14,6 +14,7 @@ Music Theory Review/
 │  ├─ 1107.pdf
 │  └─ README.md
 ├─ ...
+├─ img/ (圖像存放區)
 └─ README.md (本說明文件)
 ```
 
